@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4ca7dae-0355-4f97-ab50-8cadb29d2092" name="Default Changelist" comment="" />
+    <list default="true" id="5554cc08-919b-4092-b312-87222b7e55c1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1ngiQXRWgfjv1OvAtcVJdHfJAE1" />
+  <component name="ProjectId" id="1nunyRIxn9CBakaVHc4n4AvgXcI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,9 +27,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.les_2_task_5">
-    <configuration name="les_2_task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HomeWork_2" />
+  <component name="RunManager" selected="Python.les3_task6">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork_3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -40,7 +40,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les_2_task_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -49,8 +49,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="les_2_task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HomeWork_2" />
+    <configuration name="les3_task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork_3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -61,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les_2_task_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les3_task3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,8 +70,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="les_2_task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HomeWork_2" />
+    <configuration name="les3_task4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork_3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -82,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les_2_task_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les3_task4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,8 +91,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="les_2_task_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HomeWork_2" />
+    <configuration name="les3_task5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork_3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -103,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les_2_task_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les3_task5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,8 +112,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="les_2_task_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HomeWork_2" />
+    <configuration name="les3_task6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork_3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -124,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les_2_task_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/les3_task6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +134,7 @@
       <method v="2" />
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="HomeWork_2" />
+      <module name="HomeWork_3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -156,46 +156,42 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.les_2_task_5" />
-        <item itemvalue="Python.les_2_task_4" />
-        <item itemvalue="Python.les_2_task_3" />
-        <item itemvalue="Python.les_2_task_2" />
-        <item itemvalue="Python.les_2_task_1" />
+        <item itemvalue="Python.les3_task6" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.les3_task5" />
+        <item itemvalue="Python.les3_task4" />
+        <item itemvalue="Python.les3_task3" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a4ca7dae-0355-4f97-ab50-8cadb29d2092" name="Default Changelist" comment="" />
-      <created>1611818119527</created>
+      <changelist id="5554cc08-919b-4092-b312-87222b7e55c1" name="Default Changelist" comment="" />
+      <created>1612249097786</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611818119527</updated>
+      <updated>1612249097786</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1612249082475">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1612272077753">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1612249082475" />
-    <state width="1345" height="176" key="GridCell.Tab.0.bottom" timestamp="1611923784116">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612272077753" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1612272077752">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611923784116" />
-    <state width="1345" height="176" key="GridCell.Tab.0.center" timestamp="1611923784116">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612272077752" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1612272077752">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611923784116" />
-    <state width="1345" height="176" key="GridCell.Tab.0.left" timestamp="1611923784116">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612272077752" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1612272077753">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611923784116" />
-    <state width="1345" height="176" key="GridCell.Tab.0.right" timestamp="1611923784116">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1345" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611923784116" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612272077753" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
